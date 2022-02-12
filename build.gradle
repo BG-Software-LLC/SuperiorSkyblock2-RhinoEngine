@@ -37,7 +37,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly "com.bgsoftware:SuperiorSkyblockAPI:latest"
+    compileOnly "com.bgsoftware:SuperiorSkyblockAPI:1.8.4"
     compileOnly "org.spigotmc:v1_8_R3-Taco:latest"
     implementation "org.mozilla:rhino:1.7.13"
 }
